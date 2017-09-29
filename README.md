@@ -1,2 +1,3 @@
 Exercice-Cadavre-Exquis-Antoine
-Ceci et cela , 
+Ceci et cela.
+Edité avec nano !
